@@ -126,5 +126,3 @@ Data Analyst | People Analytics Enthusiast
 🗂 [Portfolio](https://www.notion.so/Deleonard-Portfolio-27fa981e9d4f80b6b194fc81fcc8b5a0?source=copy_link)
 
 ---
-
-## 📁 Repository Structure
